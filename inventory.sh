@@ -7,4 +7,5 @@
  sleep 2
  cat /etc/*release
  sleep 3
- cat 
+
+ echo " je suis dans lili"
